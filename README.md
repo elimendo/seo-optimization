@@ -1,5 +1,7 @@
 # Code Refactor Starter Code
 Seo Optimization Work
-
-Optimixed style.css and index.html
-Removed unnecesary code
+locate semantic HTML elements
+Find elements that use a logical structure
+Make Alt Attributes
+Make heading in sequential Order
+Make clever title
